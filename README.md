@@ -1,4 +1,4 @@
-# Data_Wrangling Sample Project
+# Data Wrangling Sample Project
 
 The purpose of this document is to outline the steps taken to obtain and clean @WeRateDogs tweet data. 
 
